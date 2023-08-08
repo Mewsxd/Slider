@@ -1,0 +1,26 @@
+.buttons {
+  width: 100%;
+  /* color: rgb(91, 91, 202); */
+  /* size: 40px; */
+}
+
+.button {
+  color: rgb(22, 209, 209);
+  /* padding-left: 1.5rem;
+  padding-right: 1.5rem; */
+  border-radius: 10px;
+  font-size: 20px;
+  width: 130px;
+  height: 70px;
+}
+.left-button {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+}
+
+.right-button {
+  position: absolute;
+  top: 50%;
+  right: 10%;
+}
